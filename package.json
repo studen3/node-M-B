@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "stevan": "node index.js",
+    "info": "node 02-modulo-nativos/",
+    "saludar": "node ejercicios/2-process.js"
+  },
+  "author": "stevan ANGULO",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "16.3.1"
+  }
+}
